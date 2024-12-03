@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/./site.css">
+</head>
+<body>
+    
+    <h1>login</h1>
+    <label for="name">enter name</label>
+    <input type="text" name="name" id="name">
+    <label for="password">enter password</label>
+    <input type="text" name="password" id="password">
+    <button type="submit" id="submit">send</button>
+    <br>
+    <div class="g_id_signin" data-type="standard"></div>
+    <button id="g_id_onload" data-client_id="527151850613-cake67hkhqou3n3a47l4can5o19poj8u.apps.googleusercontent.com" data-callback="handleCredentialResponse">
+    </button>
+    </div>
+
+    <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=527151850613-cake67hkhqou3n3a47l4can5o19poj8u.apps.googleusercontent.com&redirect_uri=https://localhost:7188/&scope=openid%20email&state=STATE_STRING" id="">התחבר באמצעות גוגל</a>
+   <br>
+<button id="postmanButton">Open Postman</button>
+
+<script>
+    document.getElementById("postmanButton").addEventListener("click", function() {
+        window.open("https://www.postman.com/crimson-shadow-654378/workspace/tasks/example/31279862-d73b7d2a-ab09-4894-82de-0e40897d377d", "_blank");
+    });
+</script>
+
+</body>
+<script src="./js/login.js"></script>
+</html>

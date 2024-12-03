@@ -1,0 +1,190 @@
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.AssemblyReference.cache
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfoInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CoreCompileInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\appsettings.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.exe
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.deps.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.runtimeconfig.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.ShoesStor.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\scopedcss\bundle\ShoesStor.styles.css
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\Shues.FE8AA5DA.Up2Date
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\refint\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.genruntimeconfig.cache
+Z:\B\שנברגר רבקה\זילברברג\ShoesStor\obj\Debug\net8.0\ref\ShoesStor.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\appsettings.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.exe
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.deps.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.runtimeconfig.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.pdb
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.AssemblyReference.cache
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfoInputs.cache
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfo.cs
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CoreCompileInputs.cache
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.ShoesStor.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoesStor.props
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoesStor.props
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoesStor.props
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\scopedcss\bundle\ShoesStor.styles.css
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\refint\ShoesStor.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.pdb
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ShoesStor.genruntimeconfig.cache
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\ref\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\appsettings.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\ShoesStor.exe
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\ShoesStor.deps.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\ShoesStor.runtimeconfig.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.AssemblyReference.cache
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfoInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CoreCompileInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.ShoesStor.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\scopedcss\bundle\ShoesStor.styles.css
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\Shoes.FE8AA5DA.Up2Date
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\refint\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ShoesStor.genruntimeconfig.cache
+Z:\B\שנברגר רבקה\זילברברג\מנעמה\ShoesStor\obj\Debug\net8.0\ref\ShoesStor.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Data\Shoes.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\Data\user.json
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\obj\Debug\net8.0\Shoes.FE8AA5DA.Up2Date
+Z:\B\נעמה שטרן\core_זילברברג\ShoesStor\bin\Debug\net8.0\ShoesStor.staticwebassets.runtime.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\appsettings.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Data\Shoes.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Data\user.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.staticwebassets.runtime.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.exe
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.deps.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.runtimeconfig.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\ShoesStor.pdb
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.AssemblyReference.cache
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfoInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CoreCompileInputs.cache
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.ShoesStor.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoesStor.props
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\scopedcss\bundle\ShoesStor.styles.css
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\refint\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ShoesStor.genruntimeconfig.cache
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\ref\ShoesStor.dll
+Z:\B\שנברגר רבקה\זילברברג\פרויקט כו כסלו\ShoesStor\obj\Debug\net8.0\Shoes.FE8AA5DA.Up2Date
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\appsettings.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Data\Shoes.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Data\user.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.staticwebassets.runtime.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.exe
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.deps.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.runtimeconfig.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\ShoesStor.pdb
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.AssemblyReference.cache
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfoInputs.cache
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.AssemblyInfo.cs
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CoreCompileInputs.cache
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.ShoesStor.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoesStor.props
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoesStor.props
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoesStor.props
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\scopedcss\bundle\ShoesStor.styles.css
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.csproj.CopyComplete
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\refint\ShoesStor.dll
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.pdb
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ShoesStor.genruntimeconfig.cache
+Z:\B\בן גיגי אסתר\core\ShoesStor\obj\Debug\net8.0\ref\ShoesStor.dll

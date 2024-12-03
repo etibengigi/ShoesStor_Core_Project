@@ -1,0 +1,89 @@
+/* שיפור העיצוב לאלמנטים */
+input[type='submit'],
+button,
+[aria-label] {
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+input[type='submit']:hover,
+button:hover,
+[aria-label]:hover {
+    background-color: #0056b3;
+}
+
+/* עיצוב הטופס לעריכה */
+#editForm {
+    display: none;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* עיצוב הטבלה */
+table {
+    font-family: 'Arial', sans-serif;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* שיפור נוסף לאסתטיקה כללית */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+a {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
